@@ -1,6 +1,6 @@
 # Course-Project-CAM-2016.6
 
-This is a final project of the course 'Conputer-Aided Manufacturing' given in 2016 Tongji University, Shanghai.
+This is a final project of the course 'Conputer-Aided Manufacturing' taught by Giovanni Moroni (Politecnico di Milano, Italy) and Adrea Matta (Jiaotong University, Shanghai), given in 2016 Tongji University, Shanghai.
 
 The report pdf file is in English.
 
